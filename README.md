@@ -21,7 +21,7 @@ A real-time face recognition system built using **Python**, **OpenCV**, and the 
 ## 🚀 Demo Preview
 
 > Replace with your GIF or image
-![Demo Placeholder](https://via.placeholder.com/600x350?text=Demo+GIF+Here)
+![Demo Placeholder](https://github.com/Pritam033/python_project/blob/main/docs/Screenshot%202025-06-21%20134137.png)
 
 ---
 
