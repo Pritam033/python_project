@@ -74,7 +74,7 @@ Compares with known encodings.
 
 Draws rectangles & labels names.
 
-📜 License
+📜 [License](https://github.com/Pritam033/python_project/blob/main/License.txt)
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 🙋‍♂️ Author
