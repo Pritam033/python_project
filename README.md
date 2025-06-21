@@ -38,7 +38,7 @@ A real-time face recognition system built using **Python**, **OpenCV**, and the 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/face-recognition-opencv.git
+git clone https://github.com/Pritam033/face-recognition-opencv.git
 cd face-recognition-opencv
 
 Install Dependencies
