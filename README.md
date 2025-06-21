@@ -44,11 +44,11 @@ cd face-recognition-opencv
 Install Dependencies
 bash
 pip install -r requirements.txt
+```
 
 
-
-###📁 Project Structure
-
+📁 Project Structure
+```bash
 face-recognition-opencv/
 ├── images/
 │   ├── person1.jpg
@@ -56,7 +56,7 @@ face-recognition-opencv/
 ├── face_recognition_app.py
 ├── requirements.txt
 └── README.md
-
+```
 
 How It Works:
 
