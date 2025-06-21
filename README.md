@@ -79,5 +79,8 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 🙋‍♂️ Author
 Pritam Som
-GitHub | LinkedIn
+[GitHub ](https://github.com/Pritam033)| 
+[LinkedIn](www.linkedin.com/in/pritam-som-465b56351)
+
+
 
